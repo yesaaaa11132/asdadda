@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SirShine/Obfuscated-Roblox-Scripts/main/Your%20Bizarre%20Adventure/YBAGUI.lua", true))()
